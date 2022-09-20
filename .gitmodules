@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/FullhouseTOEIC"]
+	path = wp-content/themes/FullhouseTOEIC
+	url = git@github.com:phamlethaohien/TOEIC-Website-Wordpress.git
